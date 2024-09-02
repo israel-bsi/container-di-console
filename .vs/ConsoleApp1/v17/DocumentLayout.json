@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\maste\\source\\repos\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5CBFE2C1-4A69-417A-A9DA-E359CEFC90DD}|ConsoleApp1.csproj|c:\\users\\maste\\source\\repos\\consoleapp1\\teste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CBFE2C1-4A69-417A-A9DA-E359CEFC90DD}|ConsoleApp1.csproj|solutionrelative:teste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CBFE2C1-4A69-417A-A9DA-E359CEFC90DD}|ConsoleApp1.csproj|c:\\users\\maste\\source\\repos\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CBFE2C1-4A69-417A-A9DA-E359CEFC90DD}|ConsoleApp1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CBFE2C1-4A69-417A-A9DA-E359CEFC90DD}|ConsoleApp1.csproj|c:\\users\\maste\\source\\repos\\consoleapp1\\configurationservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CBFE2C1-4A69-417A-A9DA-E359CEFC90DD}|ConsoleApp1.csproj|solutionrelative:configurationservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CBFE2C1-4A69-417A-A9DA-E359CEFC90DD}|ConsoleApp1.csproj|c:\\users\\maste\\source\\repos\\consoleapp1\\servicelocator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CBFE2C1-4A69-417A-A9DA-E359CEFC90DD}|ConsoleApp1.csproj|solutionrelative:servicelocator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CBFE2C1-4A69-417A-A9DA-E359CEFC90DD}|ConsoleApp1.csproj|c:\\users\\maste\\source\\repos\\consoleapp1\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CBFE2C1-4A69-417A-A9DA-E359CEFC90DD}|ConsoleApp1.csproj|solutionrelative:cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CBFE2C1-4A69-417A-A9DA-E359CEFC90DD}|ConsoleApp1.csproj|c:\\users\\maste\\source\\repos\\consoleapp1\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CBFE2C1-4A69-417A-A9DA-E359CEFC90DD}|ConsoleApp1.csproj|solutionrelative:clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CBFE2C1-4A69-417A-A9DA-E359CEFC90DD}|ConsoleApp1.csproj|c:\\users\\maste\\source\\repos\\consoleapp1\\iclienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CBFE2C1-4A69-417A-A9DA-E359CEFC90DD}|ConsoleApp1.csproj|solutionrelative:iclienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CBFE2C1-4A69-417A-A9DA-E359CEFC90DD}|ConsoleApp1.csproj|c:\\users\\maste\\source\\repos\\consoleapp1\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CBFE2C1-4A69-417A-A9DA-E359CEFC90DD}|ConsoleApp1.csproj|solutionrelative:clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CBFE2C1-4A69-417A-A9DA-E359CEFC90DD}|ConsoleApp1.csproj|c:\\users\\maste\\source\\repos\\consoleapp1\\iclienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CBFE2C1-4A69-417A-A9DA-E359CEFC90DD}|ConsoleApp1.csproj|solutionrelative:iclienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Teste.cs",
+              "DocumentMoniker": "C:\\Users\\maste\\source\\repos\\ConsoleApp1\\Teste.cs",
+              "RelativeDocumentMoniker": "Teste.cs",
+              "ToolTip": "C:\\Users\\maste\\source\\repos\\ConsoleApp1\\Teste.cs",
+              "RelativeToolTip": "Teste.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T21:56:09.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ServiceLocator.cs",
+              "DocumentMoniker": "C:\\Users\\maste\\source\\repos\\ConsoleApp1\\ServiceLocator.cs",
+              "RelativeDocumentMoniker": "ServiceLocator.cs",
+              "ToolTip": "C:\\Users\\maste\\source\\repos\\ConsoleApp1\\ServiceLocator.cs",
+              "RelativeToolTip": "ServiceLocator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T21:38:28.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConfigurationServices.cs",
+              "DocumentMoniker": "C:\\Users\\maste\\source\\repos\\ConsoleApp1\\ConfigurationServices.cs",
+              "RelativeDocumentMoniker": "ConfigurationServices.cs",
+              "ToolTip": "C:\\Users\\maste\\source\\repos\\ConsoleApp1\\ConfigurationServices.cs",
+              "RelativeToolTip": "ConfigurationServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T21:22:21.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ClienteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\maste\\source\\repos\\ConsoleApp1\\ClienteRepository.cs",
+              "RelativeDocumentMoniker": "ClienteRepository.cs",
+              "ToolTip": "C:\\Users\\maste\\source\\repos\\ConsoleApp1\\ClienteRepository.cs",
+              "RelativeToolTip": "ClienteRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T21:21:58.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClienteService.cs",
+              "DocumentMoniker": "C:\\Users\\maste\\source\\repos\\ConsoleApp1\\ClienteService.cs",
+              "RelativeDocumentMoniker": "ClienteService.cs",
+              "ToolTip": "C:\\Users\\maste\\source\\repos\\ConsoleApp1\\ClienteService.cs",
+              "RelativeToolTip": "ClienteService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T21:21:43.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IClienteService.cs",
+              "DocumentMoniker": "C:\\Users\\maste\\source\\repos\\ConsoleApp1\\IClienteService.cs",
+              "RelativeDocumentMoniker": "IClienteService.cs",
+              "ToolTip": "C:\\Users\\maste\\source\\repos\\ConsoleApp1\\IClienteService.cs",
+              "RelativeToolTip": "IClienteService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T21:21:31.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IClienteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\maste\\source\\repos\\ConsoleApp1\\IClienteRepository.cs",
+              "RelativeDocumentMoniker": "IClienteRepository.cs",
+              "ToolTip": "C:\\Users\\maste\\source\\repos\\ConsoleApp1\\IClienteRepository.cs",
+              "RelativeToolTip": "IClienteRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T21:21:15.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\maste\\source\\repos\\ConsoleApp1\\Cliente.cs",
+              "RelativeDocumentMoniker": "Cliente.cs",
+              "ToolTip": "C:\\Users\\maste\\source\\repos\\ConsoleApp1\\Cliente.cs",
+              "RelativeToolTip": "Cliente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T21:20:53.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\maste\\source\\repos\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\maste\\source\\repos\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T21:20:30.478Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
